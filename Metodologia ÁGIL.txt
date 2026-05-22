@@ -1,0 +1,132 @@
+﻿Linguagem de Programação : JAVASCRIPT
+
+
+
+
+
+
+04. 
+ JavaScript foi criado em 1995 por Brendan Eich, enquanto trabalhava na Netscape. A linguagem surgiu para tornar páginas web mais interativas e dinâmicas. Inicialmente chamada de Mocha, depois LiveScript, recebeu o nome JavaScript para aproveitar a popularidade da linguagem Java na época.Com o passar dos anos, JavaScript evoluiu bastante através do padrão ECMAScript, tornando-se uma das linguagens mais utilizadas no mundo da tecnologia.
+
+
+O criador do JavaScript foi Brendan Eich.
+Ele desenvolveu a linguagem em apenas 10 dias para a empresa Netscape.Seu principal objetivo era permitir que os navegadores executassem ações dinâmicas sem depender apenas de HTML.
+Status
+✅ Concluído
+    Fontes de Pesquisa : 
+       https://developer.mozilla.org/pt-BR/docs/Web/JavaScript?utm_source.com
+        https://www.w3schools.com/js/?utm_source.com
+
+
+
+
+
+
+ Linguagem interpretada
+Fácil de aprender
+Orientada a objetos
+Executada diretamente no navegador
+Compatível com HTML e CSS
+Suporte a programação assíncrona
+Multiplataforma
+Grande comunidade de desenvolvedores
+
+
+04.  Exemplo 1 > Mensagem no Console 
+           console.log("Olá Mundo!");
+         Exemplo 2 > Variáveis 
+                 let nome = "Airton";
+console.log("Bem-vindo " + nome);
+Exemplo 3 > Função 
+      function somar(a, b){
+   return a + b;
+}
+
+
+console.log(somar(5, 3));
+
+
+05. Áreas de Aplicação 
+ Desenvolvimento de sites
+Aplicações web
+Aplicativos mobile
+Desenvolvimento backend com Node.js
+Jogos online
+APIs
+Inteligência Artificial
+Sistemas em tempo real
+
+
+
+
+06. Vantagens e Desvantagens 
+Vantagens
+Fácil aprendizado
+Alta demanda no mercado
+Grande quantidade de bibliotecas
+Funciona em praticamente todos os navegadores
+Desenvolvimento rápido
+Desvantagens
+Pode apresentar falhas de segurança no front-end
+Diferenças entre navegadores antigos
+Projetos grandes podem ficar complexos
+07. As Empresas Que Utilizam o JavaScript
+     Google 
+      Netflix 
+       Meta 
+      Amazon 
+      Microsoft
+08. CURIOSIDADES 
+      JavaScript foi criado em apenas 10 dias.
+      Apesar do nome, JavaScript não é a mesma coisa que Java.
+      É uma das linguagens mais utilizadas do mundo.
+      Atualmente também pode ser utilizada no backend através do Node.js
+
+
+
+
+
+
+
+
+
+
+           PROGRESSO E EVOLUÇÃO DA PESQUISA 
+
+
+Conteúdo da Pesquisa
+	Status
+	Progresso
+	Conclusão
+	📜 História da linguagem
+	🟢 Concluído
+	100%
+	Mapeado
+	👤 Criador do JavaScript
+	🟢 Concluído
+	100%
+	Mapeado
+	⚙️ Características
+	🟢 Concluído
+	100%
+	Mapeado
+	💻 Exemplos de código
+	🟢 Concluído
+	100%
+	Mapeado
+	🌐 Áreas de aplicação
+	🟢 Concluído
+	100%
+	Mapeado
+	⚖️ Vantagens e desvantagens
+	🟢 Concluído
+	100%
+	Mapeado
+	🏢 Empresas que utilizam
+	🟢 Concluído
+	100%
+	Mapeado
+	💡 Curiosidades
+	🟢 Concluído
+	100%
+	Mapeado
